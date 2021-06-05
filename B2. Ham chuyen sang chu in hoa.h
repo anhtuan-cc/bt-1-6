@@ -8,10 +8,4 @@ void upperCase(char s[]){
 	}
     printf("Chuoi sau khi chuyen sang in hoa: %s",s);
 }
-// Mo ta chuc nang
-int main(){
-	char s[50];
-	printf("Nhap chuoi s ");
-	scanf("%s",s);
-	upperCase(s);
-}
+
